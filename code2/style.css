@@ -1,0 +1,57 @@
+#div {
+	width: 700px;
+	height: 900px;
+	box-sizing: border-box;
+	margin: auto;
+	text-align: center;
+	color: white;
+}
+.dong1, .dong2 {
+	width: 700px;
+}
+.dong1 {
+	height: 100px;
+	/*background: blue;*/
+}
+.dong2 {
+	height: 200px;
+	/*background: green;*/
+}
+#do1 {
+	background: red;
+	width: 300px;
+	height: 100px;
+	margin: auto;
+}
+#do2 {
+	background: red;
+	width: 500px;
+	height: 100px;
+	margin: auto;
+}
+#do3 {
+	background: red;
+	width: 700px;
+	height: 100px;
+}
+.xam {
+	width: 100px;
+	height: 200px;
+	background: gray;
+	float: left;
+}
+#xam1 {
+	margin-left: 200px;
+}
+#xam2 {
+	margin-left: 100px;
+}
+#xam3 {
+	margin-left: 100px; 
+}
+#xam4 {
+	margin-left: 300px;
+}
+#xam6 {
+	margin-left: 500px;
+}

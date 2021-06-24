@@ -1,0 +1,15 @@
+#div {
+	width: 1000px;
+	height: 400px;
+	box-sizing: border-box;
+}
+.den, .do {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+#d1 {background: red;}
+#d3 {background: yellow;}
+#d5 {background: green;}
+#d7 {background: blue;}
+#d9 {background: pink;}
